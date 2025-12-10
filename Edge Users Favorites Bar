@@ -1,0 +1,63 @@
+[
+  {
+    "toplevel_name": "My Favorites"
+  },
+  {
+    "url": "https://www.example.com/",
+    "name": "Example Website"
+  },
+  {
+    "url": "https://www.search.com/",
+    "name": "Search Engine"
+  },
+  {
+    "url": "https://www.news.com/",
+    "name": "News Portal"
+  },
+  {
+    "url": "https://www.mail.com/",
+    "name": "Webmail"
+  },
+  {
+    "url": "https://www.social.com/",
+    "name": "Social Media"
+  },
+  {
+    "url": "https://www.learning.com/",
+    "name": "Learning Platform"
+  },
+  {
+    "name": "Tools & References",
+    "children": [
+      {
+        "url": "https://www.docs.com/",
+        "name": "Documentation"
+      },
+      {
+        "url": "https://www.portal.com/",
+        "name": "Employee Portal"
+      },
+      {
+        "url": "https://www.info.com/",
+        "name": "Information Center"
+      },
+      {
+        "url": "https://www.wellness.com/",
+        "name": "Wellness Hub"
+      }
+    ]
+  },
+  {
+    "name": "Help & Services",
+    "children": [
+      {
+        "url": "https://www.research.com/",
+        "name": "Research Tools"
+      },
+      {
+        "url": "https://www.court.com/",
+        "name": "Court System"
+      }
+    ]
+  }
+]
